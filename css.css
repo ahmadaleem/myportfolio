@@ -1,0 +1,47 @@
+body{   
+    font: 20px/1.5 Arial, Helvetica, sans-serif;		
+    /* padding: 4px; */
+    margin: 4px;
+    background-color: rgb(20, 14, 14);
+    
+}
+header{
+    background-color: rgb(37, 27, 27); 
+    color: #34cdf3;
+    margin-left: 0px;
+    padding-top: 1px;
+    font-style: italic;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-weight: bold;
+    border-bottom: #e8491d 3px solid;
+    /* border-right: #e8491d 3px solid; */
+}
+span{
+    color: teal;   
+}
+.container1{
+    margin: 0px;
+    padding-left: 20px;
+}
+
+.contentheading
+{   padding-left: 10%;
+    color: #e8491d;
+}
+
+.contentpara{
+    color: seashell;
+    width: 50%;
+}
+footer{
+    background-color: #323941;
+    height: 40%;
+    margin-top: 10px;
+    padding-left: 40%;
+    padding-top: 10px;
+}
+ #container2{
+    min-height: 400px;
+    background: url('../myblogs/webwall.jpg') no-repeat;
+    background-attachment: fixed;
+}
